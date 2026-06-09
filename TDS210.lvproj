@@ -14,6 +14,7 @@
 		<Item Name="read.vi" Type="VI" URL="../read.vi"/>
 		<Item Name="read_v2.vi" Type="VI" URL="../read_v2.vi"/>
 		<Item Name="scope_test.vi" Type="VI" URL="../scope_test.vi"/>
+		<Item Name="Trigger VI.vi" Type="VI" URL="../Trigger VI.vi"/>
 		<Item Name="Untitled 1.vi" Type="VI" URL="../Untitled 1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
