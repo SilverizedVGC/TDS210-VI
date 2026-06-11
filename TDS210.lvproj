@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="part2.vi" Type="VI" URL="../part2.vi"/>
 		<Item Name="read.vi" Type="VI" URL="../read.vi"/>
+		<Item Name="read_back.vi" Type="VI" URL="../read_back.vi"/>
 		<Item Name="read_v2.vi" Type="VI" URL="../read_v2.vi"/>
 		<Item Name="scope_test.vi" Type="VI" URL="../scope_test.vi"/>
 		<Item Name="Trigger VI.vi" Type="VI" URL="../Trigger VI.vi"/>
